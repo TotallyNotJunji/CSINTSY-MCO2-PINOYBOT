@@ -37,7 +37,7 @@ def uncomon_letters(token):
         return True
     if 'c' in token:
         return True
-    if 'x' in token:
+    if 'z' in token:
         return True
     return False
 
